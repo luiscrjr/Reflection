@@ -1,0 +1,12 @@
+C:\_csharp\UsandoReflection\UsandoReflection\bin\Debug\UsandoReflection.exe.config
+C:\_csharp\UsandoReflection\UsandoReflection\bin\Debug\UsandoReflection.exe
+C:\_csharp\UsandoReflection\UsandoReflection\bin\Debug\UsandoReflection.pdb
+C:\_csharp\UsandoReflection\UsandoReflection\obj\Debug\UsandoReflection.csprojResolveAssemblyReference.cache
+C:\_csharp\UsandoReflection\UsandoReflection\obj\Debug\UsandoReflection.exe
+C:\_csharp\UsandoReflection\UsandoReflection\obj\Debug\UsandoReflection.pdb
+C:\Users\LUICLJUNIOR\Downloads\UsandoReflection\UsandoReflection\bin\Debug\UsandoReflection.exe.config
+C:\Users\LUICLJUNIOR\Downloads\UsandoReflection\UsandoReflection\bin\Debug\UsandoReflection.exe
+C:\Users\LUICLJUNIOR\Downloads\UsandoReflection\UsandoReflection\bin\Debug\UsandoReflection.pdb
+C:\Users\LUICLJUNIOR\Downloads\UsandoReflection\UsandoReflection\obj\Debug\UsandoReflection.csprojAssemblyReference.cache
+C:\Users\LUICLJUNIOR\Downloads\UsandoReflection\UsandoReflection\obj\Debug\UsandoReflection.exe
+C:\Users\LUICLJUNIOR\Downloads\UsandoReflection\UsandoReflection\obj\Debug\UsandoReflection.pdb
